@@ -11,9 +11,6 @@ Initialize a new account with a string (name)
 
 Update the stored string
 
-Example Anchor tests with Mocha + Chai
-
-Educational boilerplate for learning Anchor account storage
 
 📂 Program Structure
 Program ID
