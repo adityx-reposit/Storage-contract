@@ -12,7 +12,7 @@ Initialize a new account with a string (name)
 Update the stored string
 
 
-📂 Program Structure
+📂 Program Update
 Program ID
 declare_id!("HRh96MagtAUwv3bmf2waNEAR2X1TxyKsjxDdCJx87gGy");
 
